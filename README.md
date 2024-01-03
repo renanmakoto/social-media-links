@@ -1,6 +1,6 @@
 <h1 align="center">social-media-links</h1>
 
-<p align="center">A social media links page I developed to practice my skills.</p>
+<p align="center">A social media links page I developed as an intial project for my prospective customers.</p>
 
 <p align="center">You may access the application through the link below:</p>
 
